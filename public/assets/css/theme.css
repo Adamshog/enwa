@@ -4804,8 +4804,8 @@ textarea.form-control-lg {
   justify-content: space-between;
 }
 .navbar-brand {
-  padding-top: 0.31rem;
-  padding-bottom: 0.31rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
   margin-right: 1rem;
   font-size: 1.333rem;
   white-space: nowrap;
@@ -17698,7 +17698,7 @@ ul {
 
 .freya-logo {
   background:url(assets/img/logo/profile-img.gif);
-  background: var(--freya-1100);
+  background: var(--freya-11100);
   border-radius: 1.375rem;
   border-bottom-right-radius: 0;
   line-height: 1;
@@ -18738,6 +18738,15 @@ html[dir=rtl] .googlemap .gm-style-iw.gm-style-iw-c button[title=Close] {
   top: 0.5625rem;
 }
 
+#img-1{
+  height: 35px;
+  width: 80px;
+}
+
+#img-fluid{
+  height: 35px;
+  width: 80px;
+}
 .modal-shape-header:before {
   height: 28.9375rem;
   width: 155%;
